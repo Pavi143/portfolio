@@ -1,0 +1,7 @@
+Everyone tells me that working as an SDE at leading tech companies offers similar challenges and opportunities. However, after exploring ShareChat's innovative approach and talking to professionals in the field, it’s clear that ShareChat stands out with its commitment to shaping the future of digital interaction in India.
+
+What impressed me most about ShareChat is your ambitious goal to build world-class AI and tech products that cater to a diverse and expansive user base. Your focus on optimizing ad recommendations through robust data pipelines and machine learning is particularly compelling. It resonates deeply with my own experience in designing and developing scalable systems and working with machine learning techniques.
+
+In my recent role at A2APoint, I single-handedly built the entire technological infrastructure, leading a team to deliver robust web and mobile applications. Developed a Next.js web app and a React Native mobile app from a single codebase (universal development, have written a blog as well), along with CMS, dashboards, multi-factor authentication, and various integrated features. Utilized React.js, Next.js, React Native, Node.js, Keycloak, PostgreSQL, Docker, and CI/CD pipelines. The project is estimated to have atleast 5000 active users per month.
+
+Thank you for considering my application. My technical expertise and passion for creating impactful solutions align well with ShareChat's mission. I am available for further discussion at your convenience via email (joel.samuel@example.com) or by phone (123-456-7890).

@@ -1,0 +1,9 @@
+I am excited to apply for the position at Fluence, where my diverse experience and technical skills align perfectly with the role's requirements. With over 3 years in front-end development and a comprehensive background in various technologies, I am eager to contribute to Fluence's innovative projects and drive advancements in energy storage solutions.
+
+a2apoint.com exemplifies my capabilities, as I developed this sophisticated platform entirely from scratch, encompassing both web and mobile components. This project showcases my proficiency with technologies including React, Next.js, and TypeScript, as well as my expertise in building server-rendered web applications and cross-platform mobile apps.
+
+My experience with Nest.js and object-oriented programming concepts aligns well with the tools and technologies listed for this role. Additionally, my skills in managing CI/CD pipelines with Jenkins, using version control systems like GitHub and GitLab, and working with databases such as MySQL and PostgreSQL equip me to handle the technical challenges associated with this position.
+
+My extensive experience with Linux operating systems and system administration, combined with my ability to resolve dependency issues across various OS platforms, further supports my suitability for this role. I am well-versed in provisioning and managing Docker files and have a flexible approach to Agile methodologies, making me adaptable to dynamic project requirements.
+
+I am drawn to Fluence's mission of creating a more sustainable future through innovative energy storage solutions and am excited about the opportunity to contribute to such a forward-thinking company. I look forward to discussing how my background, skills, and passion align with Fluence's goals and how I can contribute to your team’s success. I can be easily reached by email at joel.sr1024@gmail.com or by phone at +918608509766.

@@ -1,0 +1,22 @@
+Hi Rajat,
+
+I hope you’re doing well. I have been working incredibly hard during my college days for the past two years. While studying, I did part-time remote internships to gain real-world experience. Despite all my efforts, the stark reality I am facing today is that all the big tech companies like Meesho, Swiggy, Myntra, Nutanix, Rippling, Rubrik, Adobe, Amazon, PayPal, Eightfold.ai, Walmart, and Flipkart only hire freshers from premium colleges through on-campus placements or university recruitments.
+
+I have been applying for jobs for several weeks now and have made LinkedIn connections with many HRs and engineers working at these companies, but to no avail. They all said they hire only through on-campus placements from top colleges for freshers.
+
+I was devastated to hear this, but without losing hope, I saw this fresher opening at Meesho that reignited my spark:
+
+Software Engineer - New Grad: https://jobs.lever.co/meesho/3c7edd38-6c40-4fd5-9d86-61b92cd4dc8f/
+
+I have tried connecting with HRs and asking for referrals, but I didn't get a reply, and my job application status remains "application submitted." I humbly ask for your help in providing a referral at Meesho to help break down these barriers.
+
+In my recent role, I developed the entire technological infrastructure for A2A Point (https://a2apoint.com). I led the creation of both a Next.js web app and a React Native mobile app from a single codebase, incorporating features like a CMS, dashboards, multi-factor authentication, and other integrated functionalities. This project involved technologies such as React.js, Next.js, React Native, Node.js, Keycloak, PostgreSQL, Docker, and CI/CD pipelines. Currently, the platform supports an estimated 5,000 active users per month, highlighting my ability to manage complex systems and deliver impactful solutions.
+
+Additionally, I created Golox, a Go implementation of the Lox interpreter from the book Crafting Interpreters, which originally used Java. Golox supports all the features of the original Lox language, including variables, control flow, functions, classes, inheritance, scoping, closures, and error handling. You can review the Golox project on GitHub at https://github.com/useEffects/golox. This project showcases my software development skills and my expertise in Go, emphasizing my ability to build efficient and high-quality software.
+
+I am grateful for any help you can provide. If a fresher role is not available, I am also willing to do an internship at Meesho.
+
+Thank you so much for your time and assistance!
+
+Best regards,  
+Joel Samuel

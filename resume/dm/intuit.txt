@@ -1,0 +1,12 @@
+Hi Krithika,
+
+I hope you’re well. Over the past 2 years, I’ve honed my skills in full-stack development and recently completed a significant project with A2APoint (https://a2apoint.com). I single-handedly built the technological infrastructure for this project, including a Next.js web app and a React Native mobile app from a single codebase, along with CMS, dashboards, multi-factor authentication, and integrated features. Technologies used include React.js, Next.js, React Native, Node.js, Keycloak, PostgreSQL, Docker, and CI/CD pipelines. The project now expects to have around 5,000 active users per month.
+ 
+My friends at Intuit mentioned that fresher roles are typically available through college placements and internships. I’m very interested in the an entry level role and am confident I can excel in the interview. If this role isn’t available, I would also be eager to explore internship opportunities.
+ 
+I would greatly appreciate your referral and the opportunity to discuss how my background and skills align with Intuit's needs.
+ 
+Thank you for considering my request. I look forward to your response.
+ 
+Best regards,
+Joel

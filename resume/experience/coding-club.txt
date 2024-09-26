@@ -1,0 +1,46 @@
+At Coding Club GCT, I spearheaded several significant software development initiatives and worked closely with my college peers, providing mentorship and fostering a collaborative environment. One of the major projects I led was the development of a monorepo that encompassed five Next.js applications and an npm package, streamlining our development process and ensuring code reuse and consistency across projects.
+
+I also created Algolab, a platform inspired by LeetCode, designed to manage exams more efficiently. Algolab features a custom judge system that supports the compilation and execution of six programming languages, providing robust multi-language support for our users. This platform not only helps students prepare for coding interviews but also aids faculty in conducting programming exams seamlessly.
+
+In addition to these projects, I implemented a custom Nix configuration for managing the computer laboratories, transitioning from a custom Arch-based distro that I had previously developed. This change significantly improved the efficiency and maintainability of our lab environments.
+
+Throughout these projects, I mentored many students, guiding them through their learning process and helping them develop practical coding skills. This experience was akin to working in a startup, driving innovation and collaboration within the club, and preparing students for real-world challenges in the tech industry.
+
+Hi Subramanian,
+
+I hope you’re doing well. I came across the Software Engineer roles (React Native/UI - ID: 68741863709 & Software Engineer - ID: 68741864147) on Eightfold, and the careers portal indicates that I am a strong match for these positions based on my resume.
+
+I recently developed https://a2apoint.com, featuring React Native for mobile apps, which might resonate with the job’s requirements. The platform is estimated to have around 5000 active subscriptions per month. Additionally, I have experience in software development, including a Go-based interpreter project available at https://github.com/useEffects/golox.
+
+I consider myself a strong candidate for these roles. If you could offer any guidance or support, I would be very grateful.
+
+Thank you for your time!
+ 
+Best regards,
+Joel Samuel
+
+
+Hi Madhu, 
+
+ I hope you’re doing well. I have been working incredibly hard during my college days for the past two years. While studying, I did part-time remote internships to gain real-world experience. Despite all my efforts, the stark reality I am facing today is that all the big tech companies like Nutanix, Rippling, Rubrik, Adobe, Amazon, PayPal, Eightfold.ai, Myntra, Walmart, and Flipkart only hire freshers from premium colleges through on-campus placements or university recruitments.
+
+I have been applying for jobs for several weeks now and have made LinkedIn connections with many HRs and engineers working at these companies, but to no avail. They all said they hire only through on-campus placements from top colleges for freshers.
+
+I was devastated to hear this, but without losing hope, I saw these three fresher openings at Adobe that reignited my spark:
+
+ Software Development Engineer - R146367: https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Software-Development-Engineer_R146367-1
+ Software Development Engineer - R147228: https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Software-Development-Engineer_R147228-1
+ Full-Stack Developer - R145850: https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Full-Stack-Developer_R145850-1
+
+I have tried connecting with HRs and asking for referrals, but I didn't get a reply, and my job application status remains "application submitted." I humbly ask for your help in providing a referral at Adobe to help break down these barriers.
+
+In my recent role, I developed the entire technological infrastructure for A2A Point (https://a2apoint.com). I led the creation of both a Next.js web app and a React Native mobile app from a single codebase, incorporating features like a CMS, dashboards, multi-factor authentication, and other integrated functionalities. This project involved technologies such as React.js, Next.js, React Native, Node.js, Keycloak, PostgreSQL, Docker, and CI/CD pipelines. Currently, the platform supports an estimated 5,000 active users per month, highlighting my ability to manage complex systems and deliver impactful solutions.
+
+Additionally, I created Golox, a Go implementation of the Lox interpreter from the book Crafting Interpreters, which originally used Java. Golox supports all the features of the original Lox language, including variables, control flow, functions, classes, inheritance, scoping, closures, and error handling. You can review the Golox project on GitHub at https://github.com/useEffects/golox. This project showcases my software development skills and my expertise in Go, emphasizing my ability to build efficient and high-quality software.
+
+I am grateful for any help you can provide. If a fresher role is not available, I am also willing to do an internship at Adobe.
+
+Thank you so much for your time and assistance!
+
+Best regards,
+Joel Samuel

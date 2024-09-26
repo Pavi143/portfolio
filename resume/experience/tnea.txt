@@ -1,0 +1,1 @@
+Developed a full-stack application for over 500 colleges in the state to submit government-sanctioned student intake data for the 2022 academic year, streamlining the online data entry of over 200,000 seats previously done manually. This project earned the state-level Dr. A.P.J Abdul Kalam Young Achiever Award.

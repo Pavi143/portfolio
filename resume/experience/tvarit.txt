@@ -1,0 +1,1 @@
+Maintained our internal Grafana fork, adding multiple features with TypeScript and Go. My notable impact includes, developing a groundbreaking grafana plugin that totally transformed frontend practices, which has been open-sourced later. Additionally, I gained hands-on experience with AWS infrastructure, including Fargate, Lambda, and RDS.
